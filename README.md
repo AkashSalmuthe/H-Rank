@@ -1,2 +1,2 @@
 # H-Rank
-hackerrank Python Practice
+Hacke-Rrank Python Practice
